@@ -1,8 +1,21 @@
 ---
-title: [Java] Scanner
-subtitle: "오늘의 개념 정리 [Scanner]"
-type: "TIL"
-createDate: "2021-08-09"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+      title: [Java] Scanner
+      layout: category
+      permalink: /categories/java/
+      taxonomy: java
 ---
 
 ## 오늘의 개념 정리 [Scanner]
