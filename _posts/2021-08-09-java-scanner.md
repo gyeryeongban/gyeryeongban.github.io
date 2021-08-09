@@ -11,7 +11,6 @@ defaults:
       comments: true
       share: true
       related: true
-
       title: [Java] Scanner
       layout: category
       permalink: /categories/java/
