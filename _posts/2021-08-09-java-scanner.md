@@ -4,6 +4,10 @@ defaults:
   - scope:
       path: ""
       type: posts
+      title: [Java] Scanner
+      layout: category
+      permalink: /categories/java/
+      taxonomy: java
     values:
       layout: single
       author_profile: true
@@ -11,10 +15,6 @@ defaults:
       comments: true
       share: true
       related: true
-      title: [Java] Scanner
-      layout: category
-      permalink: /categories/java/
-      taxonomy: java
 ---
 
 ## 오늘의 개념 정리 [Scanner]
